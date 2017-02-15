@@ -1,0 +1,40 @@
+* {
+  box-sizing:border-box;
+}
+h1 {
+  text-align: center;
+}
+.pink {
+background-color: #FFC0CB;
+}
+
+.red {
+background-color: #ff0000;
+color: #fff;
+}
+.yellow {
+background-color: #ffff00;
+}
+div {
+  border: 1px solid #000000;
+  background-color: #ccc;
+  width: 30%;
+  float: left;
+  margin-right: 1%;
+  padding: 20px;
+  position: relative;
+}
+.heading {
+  border: 1px solid #000;
+  position: absolute;
+  top: 0;
+  right: 0;
+  margin: 0;
+  width: 150px;
+  text-align: center;
+}
+main {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
