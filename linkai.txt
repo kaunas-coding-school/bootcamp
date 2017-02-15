@@ -1,0 +1,28 @@
+Git turorial --- http://gitreal.codeschool.com/?utm_source=github&utm_medium=codeschool_option&utm_campaign=trygit
+Git tutorial(atlasian) --- https://www.atlassian.com/git/tutorials
+Git cheatsheet --- https://cloud.github.com/downloads/AlexZeitler/gitcheatsheet/gitcheatsheet.pdf
+http://caniuse.com/ --- palaikomumo patikrinimas
+w3counter.com/ --- Vartojimo statistika
+w3schools.com
+Saugos guidelines --- https://www.owasp.org/index.php/Main_Page
+Darbo eigos struktura --- http://agilemanifesto.org/
+Simple projects  ---  www.dribble.com
+Sunkesni projektai  ---  www.behands.net
+Wordpress temos paruošimas  ---  teamforest.net
+Skirtingu kalbu , framework palyginimas --- todomvc.com
+Css tutorial --- http://flukeout.github.io/
+Css3 tutorial --- http://www.flexboxdefense.com/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
