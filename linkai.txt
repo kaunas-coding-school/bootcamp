@@ -10,10 +10,12 @@ Simple projects  ---  www.dribble.com
 Sunkesni projektai  ---  www.behands.net
 Wordpress temos paruošimas  ---  teamforest.net
 Skirtingu kalbu , framework palyginimas --- todomvc.com
-Css tutorial --- http://flukeout.github.io/
-Css3 tutorial --- http://www.flexboxdefense.com/
-
-
+Css tutorial game --- http://flukeout.github.io/
+Css3 tutorial game --- http://www.flexboxdefense.com/
+Skirtingi fontu tipai --- https://fonts.google.com
+Tutorial website --- http://scotch.io
+Freelancing platorma(svarbu-tomui)*** --- https://www.upwork.com/
+Developing dokumentacija(mozila) --- https://developer.mozilla.org/en-US/
 
 
 
