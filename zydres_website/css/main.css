@@ -1,0 +1,29 @@
+a.navbar-brand.pavadinimas{
+  font-family: 'Allura', cursive;
+  font-size: 50px;
+  font-size: bold;
+}
+
+
+.navbar-text {
+  font-size: bold 1.5em #fff;
+}
+.pavadinimas{
+  font-family: 'Allura', cursive;
+}
+
+.page-header.pavadinimas {
+  text-align: center;
+}
+.img-responsive{
+    width: 700px;
+    max-height: 300px;
+
+}
+body {
+    padding-top: 0; /* Required padding for .navbar-fixed-top. Remove if using .navbar-static-top. Change if height of navigation changes. */
+}
+
+footer {
+    margin: 50px 0;
+}
